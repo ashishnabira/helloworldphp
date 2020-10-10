@@ -9,7 +9,7 @@ Usage
 
 To create the image `ashishnabira/helloworldphp`, execute the following command on the tutum-hello-world folder:
 
-	docker build -t ashishnabira/tutum-hello-world .
+	docker build -t ashishnabira/helloworldphp .
 
 You can now push your new image to the registry:
 
@@ -21,7 +21,7 @@ Running your Hello World docker image
 
 Start your image:
 
-	sudo docker run -d -p 80 ashishnabira/helloworldphp
+	sudo docker run -d -p 80:80 ashishnabira/helloworldphp
 
 It will print the new container ID (like `d35bf1374e88`). Get the allocated external port:
 
@@ -29,7 +29,7 @@ It will print the new container ID (like `d35bf1374e88`). Get the allocated exte
 
 It will print the allocated port (like 4751). Test your deployment:
 
-	curl http://localhost:4751/
+	curl http://localhost/
 
 
 Hello world!
