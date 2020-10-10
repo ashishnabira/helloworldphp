@@ -1,4 +1,4 @@
-tutum-hello-world
+Nabira-hello-world
 ==================
 
 Sample docker image to test docker deployments
@@ -9,11 +9,11 @@ Usage
 
 To create the image `nieleyde/tutum-hello-world`, execute the following command on the tutum-hello-world folder:
 
-	docker build -t nieleyde/tutum-hello-world .
+	docker build -t ashishnabira/tutum-hello-world .
 
 You can now push your new image to the registry:
 
-	sudo docker push nieleyde/tutum-hello-world
+	sudo docker push ashishnabira/helloworldphp
 
 
 Running your Hello World docker image
@@ -21,7 +21,7 @@ Running your Hello World docker image
 
 Start your image:
 
-	sudo docker run -d -p 80 nieleyde/tutum-hello-world
+	sudo docker run -d -p 80 ashishnabira/helloworldphp
 
 It will print the new container ID (like `d35bf1374e88`). Get the allocated external port:
 
