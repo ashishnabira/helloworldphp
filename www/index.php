@@ -16,7 +16,7 @@
 	</style>
 </head>
 <body>
-	<img id="logo" src="logo.png" />
+	<img id="logo" src="logo1.png" />
 	<h1><?php echo "Hello ".($_ENV["NAME"]?$_ENV["NAME"]:"world")."!"; ?></h1>
 	<?php if($_ENV["HOSTNAME"]) {?><h3>My hostname is <?php echo $_ENV["HOSTNAME"]; ?></h3><?php } ?>
 	<?php
@@ -46,9 +46,11 @@
 
 	if($_ENV["TUTUM_AUTH"]) {
 		?>
-		<h3>I have Tutum API powers!</h3>
+		<h3>Powered by Ashish Nabira!</h3>
 		<?php
 	}
 	?>
+
+		<h3>Powered by Ashish Nabira!</h3>
 </body>
 </html>

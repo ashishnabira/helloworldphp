@@ -1,4 +1,4 @@
 hello-world:
-  image: tutum/hello-world
+  image: ashishnabira/helloworldphp
   ports:
-    - 81:81
+    - 80:80
