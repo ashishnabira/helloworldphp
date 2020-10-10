@@ -7,7 +7,7 @@ Created from original tutum repo for my own demonstrations.
 Usage
 -----
 
-To create the image `nieleyde/tutum-hello-world`, execute the following command on the tutum-hello-world folder:
+To create the image `ashishnabira/helloworldphp`, execute the following command on the tutum-hello-world folder:
 
 	docker build -t ashishnabira/tutum-hello-world .
 
