@@ -51,6 +51,6 @@
 	}
 	?>
 
-		<h3>Powered by Oracle Presales !</h3>
+		<h3>Powered by Open Source !</h3>
 </body>
 </html>
