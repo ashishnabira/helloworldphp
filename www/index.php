@@ -51,6 +51,6 @@
 	}
 	?>
 
-		<h3>Powered by Oracle !</h3>
+		<h3>Powered by Jenkins !</h3>
 </body>
 </html>
