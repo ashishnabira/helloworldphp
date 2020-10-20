@@ -51,6 +51,6 @@
 	}
 	?>
 
-		<h3>Powered by Jenkins !</h3>
-</body>
+		<h3>Powered by Google !</h3>
+</body
 </html>
