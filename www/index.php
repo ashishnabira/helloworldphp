@@ -51,6 +51,6 @@
 	}
 	?>
 
-		<h3>Powered by Nabira now !</h3>
+		<h2>Powered by Nabira !</h2>
 </body
 </html>
