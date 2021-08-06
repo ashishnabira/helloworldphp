@@ -51,6 +51,6 @@
 	}
 	?>
 
-		<h2>Powered by Nabira22 !</h2>
+		<h1>Powered by Nabira22 !</h1>
 </body
 </html>
