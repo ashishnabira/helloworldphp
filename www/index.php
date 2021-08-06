@@ -51,6 +51,6 @@
 	}
 	?>
 
-		<h3>Powered by Nginx !</h3>
+		<h3>Powered by Nabira !</h3>
 </body
 </html>
